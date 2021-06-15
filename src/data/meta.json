@@ -3,5 +3,6 @@
     "description": "A webring comprised entirely of g/u/rls.",
     "image": "boss.jpg",
     "url": "https://dangeru.club/",
-    "repo": null
+    "repo": null,
+    "admins": null
 }
